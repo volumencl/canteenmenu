@@ -801,65 +801,43 @@ a {
 .cid-sb3owGBRs4 .mbr-section-subtitle {
   text-align: center;
 }
-.cid-sb3qdFrEhn {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
+.cid-sb3JWQThdr {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #353535;
 }
-.cid-sb3qdFrEhn .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
+.cid-sb3JWQThdr .card-wrapper {
+  background-color: #fafafa;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #fafafa;
+  transition: all 0.3s;
+  padding: 2rem;
+  padding-top: 3rem;
 }
-.cid-sb3qdFrEhn .panel-title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+.cid-sb3JWQThdr .mbr-section-title,
+.cid-sb3JWQThdr .mbr-section-subtitle {
+  text-align: center;
 }
-.cid-sb3qdFrEhn .mbr-iconfont {
-  padding-left: 1rem;
-  font-family: 'Moririse2' !important;
-  font-size: 1.4rem !important;
-  color: #6592e6;
+@media (min-width: 992px) {
+  .cid-sb3JWQThdr .card-wrapper {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
 }
-.cid-sb3qdFrEhn .panel-body,
-.cid-sb3qdFrEhn .card-header {
-  padding: 1rem 0;
+@media (max-width: 767px) {
+  .cid-sb3JWQThdr .card-wrapper {
+    padding: 1rem;
+    padding-top: 2rem;
+  }
 }
-.cid-sb3qdFrEhn .panel-title-edit {
-  color: #000000;
-  text-align: left;
-}
-.cid-sb3rrVwI30 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sb3rrVwI30 .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
-}
-.cid-sb3rrVwI30 .panel-title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.cid-sb3rrVwI30 .mbr-iconfont {
-  padding-left: 1rem;
-  font-family: 'Moririse2' !important;
-  font-size: 1.4rem !important;
-  color: #6592e6;
-}
-.cid-sb3rrVwI30 .panel-body,
-.cid-sb3rrVwI30 .card-header {
-  padding: 1rem 0;
-}
-.cid-sb3rrVwI30 .panel-title-edit {
-  color: #000000;
+.cid-sb3JWQThdr .mbr-section-title {
+  color: #ffffff;
 }
 .cid-sb3ylAUfDb {
-  padding-top: 6rem;
+  padding-top: 1rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 .cid-sb3ylAUfDb .card-wrapper {
   background-color: #fafafa;
@@ -885,4 +863,7 @@ a {
     padding: 1rem;
     padding-top: 2rem;
   }
+}
+.cid-sb3ylAUfDb .mbr-section-title {
+  color: #ffffff;
 }
