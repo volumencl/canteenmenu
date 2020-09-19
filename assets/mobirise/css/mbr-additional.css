@@ -856,3 +856,33 @@ a {
 .cid-sb3rrVwI30 .panel-title-edit {
   color: #000000;
 }
+.cid-sb3ylAUfDb {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sb3ylAUfDb .card-wrapper {
+  background-color: #fafafa;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #fafafa;
+  transition: all 0.3s;
+  padding: 2rem;
+  padding-top: 3rem;
+}
+.cid-sb3ylAUfDb .mbr-section-title,
+.cid-sb3ylAUfDb .mbr-section-subtitle {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-sb3ylAUfDb .card-wrapper {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sb3ylAUfDb .card-wrapper {
+    padding: 1rem;
+    padding-top: 2rem;
+  }
+}
