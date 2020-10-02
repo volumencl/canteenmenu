@@ -688,7 +688,7 @@ a {
 .cid-sb3owGBRs4 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #353535;
+  background-color: #000000;
 }
 .cid-sb3owGBRs4 .mbr-section-title {
   text-align: center;
@@ -701,13 +701,13 @@ a {
 .cid-sb3JWQThdr {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #353535;
+  background-color: #000000;
 }
 .cid-sb3JWQThdr .card-wrapper {
-  background-color: #fafafa;
+  background-color: #ffffff;
   margin-bottom: 2rem;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
   transition: all 0.3s;
   padding: 2rem;
   padding-top: 3rem;
@@ -741,13 +741,13 @@ a {
 .cid-sb3ylAUfDb {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #353535;
+  background-color: #000000;
 }
 .cid-sb3ylAUfDb .card-wrapper {
-  background-color: #fafafa;
+  background-color: #ffffff;
   margin-bottom: 2rem;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
   transition: all 0.3s;
   padding: 2rem;
   padding-top: 3rem;
@@ -771,16 +771,22 @@ a {
 .cid-sb3ylAUfDb .mbr-section-title {
   color: #ffffff;
 }
+.cid-sb3ylAUfDb .mbr-text {
+  color: #000000;
+}
+.cid-sb3ylAUfDb .card-title {
+  color: #000000;
+}
 .cid-sbpZ6qsaZu {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #353535;
+  background-color: #000000;
 }
 .cid-sbpZ6qsaZu .card-wrapper {
-  background-color: #fafafa;
+  background-color: #ffffff;
   margin-bottom: 2rem;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
   transition: all 0.3s;
   padding: 2rem;
   padding-top: 3rem;
@@ -804,16 +810,22 @@ a {
 .cid-sbpZ6qsaZu .mbr-section-title {
   color: #ffffff;
 }
+.cid-sbpZ6qsaZu .card-title {
+  color: #000000;
+}
+.cid-sbpZ6qsaZu .price {
+  color: #000000;
+}
 .cid-sbq0ihznco {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #353535;
+  background-color: #000000;
 }
 .cid-sbq0ihznco .card-wrapper {
-  background-color: #fafafa;
+  background-color: #ffffff;
   margin-bottom: 2rem;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
   transition: all 0.3s;
   padding: 2rem;
   padding-top: 3rem;
@@ -836,4 +848,10 @@ a {
 }
 .cid-sbq0ihznco .mbr-section-title {
   color: #ffffff;
+}
+.cid-sbq0ihznco .card-title {
+  color: #000000;
+}
+.cid-sbq0ihznco .price {
+  color: #000000;
 }
